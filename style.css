@@ -1,1 +1,26 @@
+body{
+    background: yellow;
+}
 
+.title{
+    color:red;
+    font-size: 75px;
+    text-align: center;
+    width:100%;
+}
+
+#word{
+    font-size: 25px;
+    color:black;
+}
+
+.pic{
+    width:200px;
+    height:200px;
+}
+
+#father{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
